@@ -1,0 +1,2 @@
+train_parking_UAV.py是tcw0914模型的训练脚本
+tcw0914.pt训练时增加了相关增强训练的模块，在转tensorrt时需要引用
